@@ -1,0 +1,2 @@
+Pattern Name: Builder Design Pattern
+Reason: In this problem we have to built a Complex object ie. a computer which is made up of multiple objects. Builder Pattern builds the complex object using simple object and using a step by step approach.
