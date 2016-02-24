@@ -1,6 +1,0 @@
-1) create class StrategyPattern containing main() method.
-2) create an interface Algorithm with one abstract method as sort().
-3) create concrete classes of sorting algorithms i.e. BubbleSort, Selection Sort etc, which implements Algorithm interface.
-4) Now create StrategyContext class with a private data member say "startegy" of type Algorithm.
-5) Pass the object an algorithm or strategy (i.e. object of either BubbleSort,selectionSort etc) as a parameter while creating an object of StrategyContext.
-6) At run time, algorithm or strategy get changes on the bases of passed object.If passed object is of type BubbleSort then strategy contain BubbleSort strategy.
