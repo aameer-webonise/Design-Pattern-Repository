@@ -1,4 +1,0 @@
-Design Pattern: Builder Pattern.
-Reason	      : In this problem also we have to built one complex object i.e. PC (just like the previous problem).
-	        Here the PC can be of two type Tower PC and Desktop PC. Based on the user's input we have to build one complex object 
-		(either Tower PC or Desktop PC).
