@@ -1,3 +1,0 @@
-Design Pattern: Decorator Design Pattern
-Reason	      : In this problem statement we have to add new functionalities to existing class structure.Decorator pattern 
-		allows a user to add new functionality to an existing object without altering its structure.
